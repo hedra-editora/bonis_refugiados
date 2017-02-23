@@ -1,12 +1,18 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{O Respeito pelo Paciente\emph {, por{} Renato Bulcão (\emph {org.})}}{9}
-\contentsline {part}{Uma visão da psicanálise}{13}
-\contentsline {chapter}{Psicanalise da Espera}{15}
-\contentsline {chapter}{Primeiro diálogo}{17}
-\contentsline {chapter}{Segundo diálogo -- O carisma do homem comum}{43}
-\contentsline {chapter}{Terceiro diálogo -- Só pobre sofre por inteiro}{63}
-\contentsline {chapter}{Quarto diálogo -- Eu sou um negro}{79}
-\contentsline {chapter}{Quinto diálogo -- Teoria da psicanálise social}{99}
-\contentsline {chapter}{Obras publicadas}{115}
+\contentsline {chapter}{Um repórter em Idomeni\emph {, por{} Sérgio Lírio}}{9}
+\contentsline {chapter}{O que significa ser um refugiado?\emph {, por{} Erika Sallum}}{13}
+\contentsline {part}{Refugiados}{23}
+\contentsline {chapter}{Um começo}{25}
+\contentsline {chapter}{Em alto mar}{29}
+\contentsline {chapter}{A Primeira Fase}{43}
+\contentsline {chapter}{Encurralados}{55}
+\contentsline {chapter}{Atores humanitários}{63}
+\contentsline {chapter}{Espiral final}{69}
+\contentsline {chapter}{Voluntários}{81}
+\contentsline {chapter}{Idomeni}{89}
+\contentsline {chapter}{Mãe}{107}
+\contentsline {chapter}{Violoncelo}{117}
+\contentsline {chapter}{Referências}{125}
+\contentsline {part}{Imagens}{129}
 \contentsfinish 

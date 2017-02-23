@@ -1,10 +1,11 @@
-\documentclass[semcabeco,showtrims,12pt,conselho,spreadimages]{memoir}
+\documentclass[semcabeco,showtrims,10pt,conselho,spreadimages]{memoir}
 
-\usepackage{commands}
-\usepackage[largepost]{hedraoptions} %% << %%%%%%%%%%%%%%%%
-\usepackage[almeida]{hedrastyles}
-\usepackage[xetex]{tipografia}
-\usepackage[standart,sempontinhos]{toc}
+\usepackage[post]{hedraoptions} 
+\usepackage[baruch]{hedrastyles}
+\usepackage[xetex,chicagofootnotes,swiftneue]{tipografia}
+
+\usepackage[standart]{toc}
+
 \usepackage{hedraextra}
 \usepackage{penalidades}
 \usepackage{graficos}
@@ -14,15 +15,30 @@
 \usepackage[standart]{aparatos}
 \usepackage{tabelas}
 \usepackage{versos}
-\usepackage{gitrevisioninfo}
 
-%\linespread{1.08}
-\renewcommand{\asterisc}{\begin{quote} \centering\raisebox{-3pt}{* * *} \end{quote}}
+\linespread{1.15}
+
+\setcounter{tocdepth}{1}     % amplitude da presença das partes no índice
+\setcounter{secnumdepth}{-2} % amplitude da numeração das partes
+
+\makeatletter
+
+\def\footnoterule{\kern-8\p@
+    \hrule \@width 2in \kern 7.6\p@} % the \hrule is .4pt high
+
+%\renewcommand{\foottextfont}{\small}
+%\footmarkstyle{\normalfont{\raisebox{3pt}{\tiny#1}}}
+%\def\@makefnmark#1{{\tiny \raisebox{3pt}{\@thefnmark}}}
+\skip\footins=10mm\@plus3mm\@minus2mm
+\makeatother
+
+%\fontsize{10.5pt}{14.2pt}\selectfont
+
+
+\newcommand{\url}[1]{#1}
 
 \begin{document}
 
-
-%\include{TESTE}
 \include{INPUTS}
 
 \end{document}
