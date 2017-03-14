@@ -1,35 +1,55 @@
-#versão  Ter Out 20 12:55:23 BRST 2015 :r !date
-
-LIVRO = REFUGIADOS
+TITULO = "JACO_PSICANALISE"
+GIT = `git log -1 --date=short --format=format:'%h'`
 
 all:
-	latexmk -xelatex -interaction=nonstopmode LIVRO.tex
-	cp LIVRO.pdf $(LIVRO).pdf
-	evince $(LIVRO).pdf
-teste:
-	xelatex LIVRO.tex
-	xelatex LIVRO.tex
+	git log -1 --date=short --format=format:'\newcommand{\RevisionInfo}{%h}' > gitrevisioninfo.sty
+	latexmk -xelatex LIVRO.tex
+rename:
+	cp LIVRO.pdf $(TITULO)_MIOLO_$(GIT).pdf
+clean_arquivosgerais:
+	mv ~/Dropbox/ARQUIVOS_GERAIS/$(TITULO)_MIOLO_* ~/Dropbox/ARQUIVOS_GERAIS/OLD/
+delivery:
+	cp $(TITULO)_MIOLO_$(GIT).pdf ~/Dropbox/ARQUIVOS_GERAIS/
+	echo $(GIT) '--- Entregue em' "$$(date)" >> ENTREGAS.txt
+
 erros:
 	-grep --color=auto "LaTeX Error" LIVRO.log
 	-grep --color=auto -A 3 "Undefined" LIVRO.log
-copy: 
-	-cp ../templates/baruch/LIVRO.tex .
-	-cp ../templates/baruch/INPUTS.tex .
-	-cp ../templates/baruch/.gitignore .
-	-cp ~/texmf/tex/fichatecnica.sty .
-texrepair:
-	-cp ~/texmf/tex/texrepair.sh .
-isbn:
-	google-chrome http://redmine.hedra.com.br/projects/producaoeditorial/wiki/ISBNs    
-entrega:
-	cp $(LIVRO).pdf ~/Dropbox/ARQUIVOS_GERAIS/
-prol:
-	echo "LOGIN: Jorge Sallum SENHA: 1230123"
-	google-chrome insite.prolgrafica.com.br 
-pdftk:
-	-echo "REMOVE PAGES: pdftk in.pdf cat 1-12 14-end output out1.pdf"
-deep-clean:
-	-rm *.sty
-	-rm *.cls
+lua:
+	lualatex  LIVRO.tex
+	lualatex  LIVRO.tex
+test:
+	xelatex LIVRO.tex
+	xelatex LIVRO.tex
+	evince LIVRO.pdf
+pdftex:
+	pdflatex --halt-on-error LIVRO.tex
+	pdflatex --halt-on-error LIVRO.tex
+mobi:	
+	tex4ebook -i -f mobi -c tex4ht EBOOK.tex 	
+epub3:
+	tex4ebook -i -f epub3 -c tex4ht EBOOK.tex 	
+epub:	
+	tex4ebook -i -c tex4ht EBOOK.tex 	
+EBOOK-pdf:
+	pdflatex -halt-on-error EBOOK.tex
+	pdflatex -halt-on-error EBOOK.tex
+EBOOK-check:
+	epubcheck EBOOK.epub
+rubber:
+	rubber --module xelatex LIVRO.tex
+rubber-test:
+	rubber --clean LIVRO.tex
+	rubber --module xelatex LIVRO.tex
+	rubber --clean LIVRO.tex
+rubber-clean:
+	rubber --clean LIVRO.tex
 clean:
-	-rm *aux *~ *log *tui *toc *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf *.fls *_latexmk LIVRO.pdf $(LIVRO).pdf
+	-rm *aux *log *tui *toc *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf *.fls *_latexmk LIVRO.pdf
+	-rm -rf EBOOK-epub
+	-rm -rf EBOOK-epub3
+	-rm -rf EBOOK-mobi
+git:
+		git add .
+		git commit -m "direto na linha de comando"
+		git push

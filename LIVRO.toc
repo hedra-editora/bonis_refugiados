@@ -6,13 +6,13 @@
 \contentsline {chapter}{Um começo}{25}
 \contentsline {chapter}{Em alto mar}{29}
 \contentsline {chapter}{A Primeira Fase}{43}
-\contentsline {chapter}{Encurralados}{55}
-\contentsline {chapter}{Atores humanitários}{63}
-\contentsline {chapter}{Espiral final}{69}
-\contentsline {chapter}{Voluntários}{81}
-\contentsline {chapter}{Idomeni}{89}
-\contentsline {chapter}{Mãe}{107}
-\contentsline {chapter}{Violoncelo}{117}
-\contentsline {chapter}{Referências}{125}
-\contentsline {part}{Imagens}{129}
+\contentsline {chapter}{Encurralados}{57}
+\contentsline {chapter}{Atores humanitários}{65}
+\contentsline {chapter}{Espiral final}{71}
+\contentsline {chapter}{Voluntários}{83}
+\contentsline {chapter}{Idomeni}{91}
+\contentsline {chapter}{Mãe}{109}
+\contentsline {chapter}{Violoncelo}{119}
+\contentsline {chapter}{Referências}{127}
+\contentsline {part}{Imagens}{131}
 \contentsfinish 
