@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1489528305 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1489528872
+["pdflatex"] 1489528305 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1489529088
   "/etc/texmf/web2c/texmf.cnf" 1475534772 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/editorial/texmf/tex/hedralogo.sty" 1476474756 1834 5722770399e04a19c50d022a19ea6723 ""
   "/home/editorial/texmf/tex/hedrastyles.sty" 1476474756 8864 1415f68b03c9b11306f4e19140afce23 ""
@@ -127,9 +127,9 @@
   "tipografia.sty" 1488916431 9859 f06ffe5c85c5828660a90c61e735ed72 ""
   "toc.sty" 1488916431 3535 ba3315dd63503c85c868efae07b02015 ""
   (generated)
-  "INPUTS.aux"
-  "LIVRO.log"
-  "LIVRO.pdf"
-  "PUBLICIDADE.aux"
   "LIVRO.aux"
+  "PUBLICIDADE.aux"
+  "LIVRO.log"
+  "INPUTS.aux"
+  "LIVRO.pdf"
   "LIVRO.toc"
