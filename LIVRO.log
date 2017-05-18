@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.5)  9 MAY 2017 17:14
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.4.7)  10 MAY 2017 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -563,7 +563,7 @@ LaTeX Info: Redefining \degres on input line 729.
 \FBfnindent=\skip258
 )
 (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russianb 2017/01/12 1.3i Russian support for the Babel system
+Language: russianb 2016/02/18 1.3h Russian support for the Babel system
 
 
 Package babel Warning: No Cyrillic font encoding has been loaded so far.
@@ -945,6 +945,4 @@ LaTeX Info: Redefining \- on input line 2746.
 .................................................
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-
-
-!!!!!!!!!!!!!!!!!!!!!!!
+\g__fontspec_family_WenQ
