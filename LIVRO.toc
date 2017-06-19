@@ -2,17 +2,16 @@
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Um repórter em Idomeni\emph {, por{} Sérgio Lírio}}{9}
 \contentsline {chapter}{O que significa ser um refugiado?\emph {, por{} Erika Sallum}}{13}
-\contentsline {part}{Refugiados}{23}
-\contentsline {chapter}{Um começo}{25}
-\contentsline {chapter}{Em alto mar}{29}
-\contentsline {chapter}{A Primeira Fase}{43}
-\contentsline {chapter}{Encurralados}{57}
-\contentsline {chapter}{Atores humanitários}{65}
-\contentsline {chapter}{Espiral final}{71}
-\contentsline {chapter}{Voluntários}{83}
-\contentsline {chapter}{Idomeni}{91}
-\contentsline {chapter}{Mãe}{109}
-\contentsline {chapter}{Violoncelo}{119}
-\contentsline {chapter}{Referências}{127}
-\contentsline {part}{Imagens}{131}
+\contentsline {part}{Refugiados}{25}
+\contentsline {chapter}{Um começo}{27}
+\contentsline {chapter}{Em alto mar}{31}
+\contentsline {chapter}{A Primeira Fase}{47}
+\contentsline {chapter}{Encurralados}{59}
+\contentsline {chapter}{Atores humanitários}{71}
+\contentsline {chapter}{Espiral final}{77}
+\contentsline {chapter}{Voluntários}{89}
+\contentsline {chapter}{Idomeni}{97}
+\contentsline {chapter}{Mãe}{119}
+\contentsline {chapter}{Violoncelo}{129}
+\contentsline {chapter}{Referências}{137}
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.4.7)  10 MAY 2017 15:42
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.4.15)  19 JUN 2017 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -945,4 +945,1018 @@ LaTeX Info: Redefining \- on input line 2746.
 .................................................
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-\g__fontspec_family_WenQ
+\g__fontspec_family_WenQuanYiMicroHei_int=\count266
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font WenQuanYi Micro Hei/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font WenQuanYi Micro Hei/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font WenQuanYi Micro Hei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'WenQuanYiMicroHei(0)' created for font 'WenQuanYi Micro Hei'
+. with options [Microtype].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"WenQuanYi Micro
+. Hei/OT:script=latn;language=DFLT;protrusion=default, expansion=default;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+\g__fontspec_family_SwiftNeueLTPro_int=\count267
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SwiftNeueLTPro(0)' created for font 'Swift Neue LT Pro' with
+. options [Microtype,Ligatures=TeX,Ligatures=TeX].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Swift Neue LT
+. Pro/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Swift Neue LT
+. Pro/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+smcp;"- 'bold' (bx/n)
+. with NFSS spec.: <->"Swift Neue LT
+. Pro/B/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Swift Neue LT
+. Pro/B/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+smcp;"- 'italic' (m/it)
+. with NFSS spec.: <->"Swift Neue LT
+. Pro/I/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Swift Neue LT
+. Pro/I/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+smcp;"- 'bold italic'
+. (bx/it) with NFSS spec.: <->"Swift Neue LT
+. Pro/BI/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Swift Neue LT
+. Pro/BI/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+smcp;"
+.................................................
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+ (./toc.sty
+(/usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen272
+)
+(/usr/share/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)) (./hedraextra.sty
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2016/06/19 v1.99m Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2016/07/07 v1.2b Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
+LaTeX Info: Redefining \bm on input line 208.
+)
+(/usr/share/texmf-dist/tex/latex/fix2col/fix2col.sty
+Package: fix2col 2015/11/13 v0.04 Output Routine fixes for two column mode (DPC
+,FMi)
+
+
+Package fix2col Warning: Obsolete package: ignored.
+
+) (/usr/share/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2015/06/22 v2.0b fixes to LaTeX (obsolete)
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+) (/usr/share/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texmf-dist/tex/latex/shorttoc/shorttoc.sty
+Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
+)
+\c@@sectionNumCenter=\count268
+)
+(/home/editorial/texmf/tex/penalidades.sty) (./graficos.sty
+(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen273
+\WF@size=\dimen274
+\c@WF@wrappedlines=\count269
+\WF@box=\box51
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
+
+Class memoir Warning: You are using the caption package with the memoir class. 
+To prepare we will now reset all captioning macros and configurations to kernel
+ defaults, and then let the caption package take over. Please remember to use
+ the caption package interfaces in order to
+ configure your captions.
+
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen275
+\captionmargin@=\dimen276
+\captionwidth=\dimen277
+\caption@tempdima=\dimen278
+\caption@indent=\dimen279
+\caption@parindent=\dimen280
+\caption@hangindent=\dimen281
+)
+\c@ContinuedFloat=\count270
+Package caption Info: wrapfig package is loaded.
+)
+(/usr/share/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2016/06/07 v1.8
+
+Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
+\TP@textbox=\box52
+\TPHorizModule=\dimen282
+\TPVertModule=\dimen283
+\TP@margin=\dimen284
+\TP@absmargin=\dimen285
+Grid set 16 x 16 = 22.58437pt x 33.96547pt
+\TPboxrulesize=\dimen286
+\TP@tbargs=\toks30
+\TP@prevdepth=\dimen287
+) (/usr/share/texmf-dist/tex/latex/sttools/floatpag.sty
+Package: floatpag 2012/05/29 v1.1 Different pagestyles on float pages
+Package: floatpag 1999/04/29 FLOAT PAGESTYLE
+)
+(/usr/share/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package morefloats Info: Maximum number of possible floats asked for: 36
+(morefloats)             (i.e. 18 more floats).
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+))
+\imageheight=\skip265
+\imagewidth=\skip266
+
+(/home/editorial/texmf/tex/hedralogo.sty
+Package: hedralogo 27/12/08 v2.0 Editora Hedra (Mantenedor: JS)
+
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+)) (./fichatecnica.sty) (./aparatos.sty (/home/editorial/texmf/tex/listingx.sty
+))
+(/home/editorial/texmf/tex/tabelas.sty
+(/usr/share/texmf-dist/tex/latex/xtab/xtab.sty
+Package: xtab 2011/07/31 v2.3f Extended supertabular package
+\c@tracingst=\count271
+\PWSTcapht=\dimen288
+\ST@wd=\dimen289
+\ST@rightskip=\skip267
+\ST@leftskip=\skip268
+\ST@parfillskip=\skip269
+\c@PWSTtable=\count272
+\PWSTlastpage=\count273
+\PWSTpenultimate=\count274
+\PWSTcurpage=\count275
+\PWSTtempc=\count276
+\PWSTlines=\count277
+\PWST@lastht=\dimen290
+\PWST@generalht=\dimen291
+\PWST@ht=\dimen292
+\ST@pageleft=\dimen293
+\ST@headht=\dimen294
+\ST@tailht=\dimen295
+\ST@pagesofar=\dimen296
+\ST@pboxht=\dimen297
+\ST@lineht=\dimen298
+\ST@stretchht=\dimen299
+\ST@prevht=\dimen300
+\ST@toadd=\dimen301
+\ST@dimen=\dimen302
+\ST@pbox=\box53
+)
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip270
+\enit@outerparindent=\dimen303
+\enit@toks=\toks31
+\enit@inbox=\box54
+\enitdp@description=\count278
+)
+(/usr/share/texmf-dist/tex/latex/ctable/ctable.sty
+Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
+le and figure floats using key/value directives
+
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks32
+\XKV@tempa@toks=\toks33
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
+\c@r@tfl@t=\count280
+\rotFPtop=\skip271
+\rotFPbot=\skip272
+\rot@float@box=\box55
+\rot@mess@toks=\toks34
+)
+
+Package ctable Warning: 
+(ctable)                Transparency disabled: pdfTeX is not running in PDF mod
+e .
+
+\@CTframesep=\dimen304
+\@dfltCTframesep=\dimen305
+\@CTframerule=\dimen306
+\@dfltCTframerule=\dimen307
+\@CTwidth=\dimen308
+\@dfltCTwidth=\dimen309
+\@CTcaptionskip=\dimen310
+\@dfltCTcaptionskip=\dimen311
+\@CTmaxwidth=\dimen312
+\@dfltCTmaxwidth=\dimen313
+\@CTmincapwidth=\dimen314
+\@dfltCTmincapwidth=\dimen315
+\@CTfooterwidth=\dimen316
+\@dfltCTfooterwidth=\dimen317
+\@CTw=\dimen318
+\@CTfloatwidth=\dimen319
+\@CToldsep=\dimen320
+\@CToldrule=\dimen321
+\CT@t=\box56
+\@CTcurftwidth=\dimen322
+)) (/home/editorial/texmf/tex/versos.sty)
+(/usr/share/texmf-dist/tex/latex/ccicons/ccicons.sty
+Package: ccicons 2013/04/16 v1.5 LaTeX support for Creative Commons icons
+) (./LIVRO.aux
+(./INPUTS.aux) (./PUBLICIDADE.aux))
+\openout1 = `LIVRO.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 40.
+
+(/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 40.
+
+(/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 40.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+LaTeX Info: Redefining \dots on input line 40.
+LaTeX Info: Redefining \up on input line 40.
+LaTeX Info: Redefining \microtypecontext on input line 40.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `SwiftNeueLTPro' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 40.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 40.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 40.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 40.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 40.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 40.
+LaTeX Font Info:    Redeclaring math accent \check on input line 40.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 40.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 40.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 40.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/SwiftNeueLTPro(0)/m/n on input line
+ 40.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/SwiftNeueLTPro(0)/m/n on input lin
+e 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/SwiftNeueLTPro(0)/m/n --> EU1/SwiftNeueLTPro(0)/m/n
+ on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/SwiftNeueLTPro(0)/m/it on input li
+ne 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/SwiftNeueLTPro(0)/bx/n on input li
+ne 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/SwiftNeueLTPro(0)/m/n --> EU1/SwiftNeueLTPro(0)/bx/
+n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/SwiftNeueLTPro(0)/bx/it on input 
+line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 40.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 40.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: rotating package is loaded.
+Package caption Info: xtab package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 40.
+
+
+(/usr/share/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
+
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+ [2
+
+]
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 40.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+) [3] (./PRETAS.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold'.
+)
+[4
+
+] (./LIVRO.toc
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+) [5]
+\openout2 = `INPUTS.aux'.
+
+ (./INPUTS.tex (./LISTADESIGLAS5174.tex [6
+
+
+
+]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+)
+(./UMREPORTEREMIDOMENI5186.tex [7] [8
+
+] [9]) (./INTRODUCAO.tex [10] [11]
+[12
+
+]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+ [13]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+ [14]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold'.
+ [15] [16] [17] [18] [19]
+Underfull \hbox (badness 3623) in paragraph at lines 216--220
+[]\EU1/SwiftNeueLTPro(0)/m/n/10 Organizações não-governamentais também tomaram
+ []
+
+[20] [21]
+File: ./img/CSC_0047.jpg Graphic file (type QTm)
+ <use  "./img/CSC_0047.jpg" >
+File: ./img/CSC_0047.jpg Graphic file (type QTm)
+ <use  "./img/CSC_0047.jpg" >
+File: ./img/CSC_0047.jpg Graphic file (type QTm)
+
+<use  "./img/CSC_0047.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 276--276
+[]| []
+ []
+
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold Italic'.
+) [22] [23] [24
+
+] [25] [26] (./INTRODUCAO5175.tex
+Underfull \hbox (badness 6316) in paragraph at lines 20--20
+[]\EU1/SwiftNeueLTPro(0)/m/n/8 1. []\EU1/SwiftNeueLTPro(0)/m/sc/8 acnur \EU1/Sw
+iftNeueLTPro(0)/m/n/8 (2016c) \EU1/SwiftNeueLTPro(0)/m/it/8 Refugees/Migrants E
+mergency Response — Mediterra-
+ []
+
+[27
+
+] [28]) (./EMALTOMAR5176.tex [29]
+File: ./img/FlickCC.jpg Graphic file (type QTm)
+ <use  "./img/FlickCC.jpg" >
+File: ./img/FlickCC.jpg Graphic file (type QTm)
+
+<use  "./img/FlickCC.jpg" >
+File: ./img/FlickCC.jpg Graphic file (type QTm)
+ <use  "./img/FlickCC.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 6--6
+[]| []
+ []
+
+LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
+(Font)              scaled to size 7.0pt on input line 6.
+[30] [31
+
+
+
+] [32] [33] [34] [35] [36]
+Underfull \hbox (badness 3199) in paragraph at lines 224--231
+[]\EU1/SwiftNeueLTPro(0)/m/n/10 Nas pequenas ruelas sem nome e de chão batido
+ []
+
+[37] [38] [39] [40]
+File: ./img/DSC_0098.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0098.jpg" >
+File: ./img/DSC_0098.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0098.jpg" >
+File: ./img/DSC_0098.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0098.jpg" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 361--361
+[]| []
+ []
+
+[41] [42] [43]) (./APRIMEIRAFASE5177.tex [44] [45]
+File: ./img/CSC_0041.jpg Graphic file (type QTm)
+
+<use  "./img/CSC_0041.jpg" >
+File: ./img/CSC_0041.jpg Graphic file (type QTm)
+ <use  "./img/CSC_0041.jpg" >
+File: ./img/CSC_0041.jpg Graphic file (type QTm)
+
+<use  "./img/CSC_0041.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 2--2
+[]| []
+ []
+
+[46] [47
+
+
+] [48] [49] [50]
+File: ./img/MP02.png Graphic file (type QTm)
+ <use  "./img/MP02.png" >
+File: ./img/MP02.png Graphic file (type QTm)
+ <use  "./img/MP02.png" >
+File: ./img/MP02.png Graphic file (type QTm)
+
+<use  "./img/MP02.png" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 141--141
+[]| []
+ []
+
+File: ./img/MP03.png Graphic file (type QTm)
+<use  "./img/MP03.png" > [51] [52] [53] [54
+
+]
+Underfull \hbox (badness 1024) in paragraph at lines 177--183
+[]\EU1/SwiftNeueLTPro(0)/m/n/10 Conter os integrantes dos grupos no mesmo espaç
+o
+ []
+
+[55] [56]
+File: ./img/DSC_0114.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0114.jpg" >
+File: ./img/DSC_0114.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0114.jpg" >
+File: ./img/DSC_0114.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0114.jpg" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 239--239
+[]| []
+ []
+
+) (./ENCURRALADOS5178.tex [57]
+File: ./img/DSC_0139.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0139.jpg" >
+File: ./img/DSC_0139.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0139.jpg" >
+File: ./img/DSC_0139.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0139.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 2--2
+[]| []
+ []
+
+[58]
+File: ./img/DSC_0142.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0142.jpg" >
+File: ./img/DSC_0142.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0142.jpg" >
+File: ./img/DSC_0142.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0142.jpg" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 7--7
+[]| []
+ []
+
+[59
+
+
+
+] [60] [61]
+File: ./img/DSC_0055.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0055.jpg" >
+File: ./img/DSC_0055.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0055.jpg" >
+File: ./img/DSC_0055.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0055.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 123--123
+[]| []
+ []
+
+[62] [63] [64] [65]
+File: ./img/DSC_0123.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0123.jpg" > [66] [67])
+(./ATORESHUMANITARIOS5179.tex [68
+
+]
+File: ./img/CSC_0043.jpg Graphic file (type QTm)
+ <use  "./img/CSC_0043.jpg" >
+File: ./img/CSC_0043.jpg Graphic file (type QTm)
+
+<use  "./img/CSC_0043.jpg" >
+File: ./img/CSC_0043.jpg Graphic file (type QTm)
+ <use  "./img/CSC_0043.jpg" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 2--2
+[]| []
+ []
+
+[69] [70
+
+
+] [71] [72] [73] [74]) (./ESPIRALFINAL5180.tex [75]
+File: ./img/DSC_0520.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0520.jpg" >
+File: ./img/DSC_0520.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0520.jpg" >
+File: ./img/DSC_0520.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0520.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 2--2
+[]| []
+ []
+
+[76]
+File: ./img/DSC_0052.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0052.jpg" >
+File: ./img/DSC_0052.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0052.jpg" >
+File: ./img/DSC_0052.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0052.jpg" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 5--5
+[]| []
+ []
+
+[77
+
+
+
+] [78] [79]
+File: ./img/DSC_0494.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0494.jpg" >
+File: ./img/DSC_0494.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0494.jpg" >
+File: ./img/DSC_0494.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0494.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 74--74
+[]| []
+ []
+
+[80] [81] [82] [83] [84] [85] [86]
+File: ./img/DSC_0506.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0506.jpg" >
+File: ./img/DSC_0506.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0506.jpg" >
+File: ./img/DSC_0506.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0506.jpg" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 263--263
+[]| []
+ []
+
+) (./VOLUNTARIOS5181.tex [87]
+File: ./img/DSC_0487.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0487.jpg" >
+File: ./img/DSC_0487.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0487.jpg" >
+File: ./img/DSC_0487.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0487.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 4--4
+[]| []
+ []
+
+[88] [89
+
+
+
+]
+File: ./img/MP01.png Graphic file (type QTm)
+ <use  "./img/MP01.png" >
+File: ./img/MP01.png Graphic file (type QTm)
+ <use  "./img/MP01.png" >
+File: ./img/MP01.png Graphic file (type QTm)
+
+<use  "./img/MP01.png" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 62--62
+[]| []
+ []
+
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+[90] [91] [92] [93]) (./IDOMENI5182.tex [94] [95]
+File: ./img/DSC_0024.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0024.jpg" >
+File: ./img/DSC_0024.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0024.jpg" >
+File: ./img/DSC_0024.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0024.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 3--3
+[]| []
+ []
+
+[96] [97
+
+
+] [98] [99] [100] [101] [102] [103] [104] [105]
+File: ./img/DSC_0014.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0014.jpg" > [106] [107] [108
+
+] [109] [110] [111] [112] [113]
+File: alerta.png Graphic file (type QTm)
+
+<use  "alerta.png" >
+Overfull \hbox (10.0pt too wide) in paragraph at lines 512--512
+[] $[]$ 
+ []
+
+[114]
+File: alerta.png Graphic file (type QTm)
+ <use  "alerta.png" >
+Overfull \hbox (10.0pt too wide) in paragraph at lines 514--514
+[] $[]$ 
+ []
+
+[115
+
+]) (./MAE5183.tex [116
+
+]
+File: ./img/DSC_0021.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0021.jpg" >
+File: ./img/DSC_0021.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0021.jpg" >
+File: ./img/DSC_0021.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0021.jpg" >
+Overfull \hbox (57.24991pt too wide) in paragraph at lines 2--2
+[]| []
+ []
+
+[117] [118
+
+
+] [119] [120] [121] [122] [123] [124] [125] [126]
+Underfull \hbox (badness 1215) in paragraph at lines 242--251
+[]\EU1/SwiftNeueLTPro(0)/m/n/10 Muitas vezes de madrugada, quase diariamente, N
+a-
+ []
+
+) (./VIOLONCELO5184.tex [127]
+File: ./img/DSC_0095.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0095.jpg" >
+File: ./img/DSC_0095.jpg Graphic file (type QTm)
+
+<use  "./img/DSC_0095.jpg" >
+File: ./img/DSC_0095.jpg Graphic file (type QTm)
+ <use  "./img/DSC_0095.jpg" >
+Overfull \hbox (57.17174pt too wide) in paragraph at lines 2--2
+[]| []
+ []
+
+[128]
+Underfull \hbox (badness 1946) in paragraph at lines 30--37
+\EU1/SwiftNeueLTPro(0)/m/n/10 sidade de sotaques criou uma barreira linguística
+ que,
+ []
+
+[129
+
+
+
+] [130] [131] [132] [133]
+Underfull \hbox (badness 2512) in paragraph at lines 175--177
+[]\EU1/SwiftNeueLTPro(0)/m/n/10 Aquela “separação” forçada já durava vários mes
+es.
+ []
+
+[134]) (./REFERENCIAS5185.tex [135] [136
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 8.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+
+Underfull \hbox (badness 1845) in paragraph at lines 24--27
+[]\EU1/SwiftNeueLTPro(0)/m/n/9 Anistia Internacional (2016a) \EU1/SwiftNeueLTPr
+o(0)/m/it/9 Iran 2015/2016\EU1/SwiftNeueLTPro(0)/m/n/9 . Disponível em:
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 40--44
+[]\EU1/SwiftNeueLTPro(0)/m/n/9 Conselho Dinamarquês para Refugiados (2016) \EU1
+/SwiftNeueLTPro(0)/m/it/9 Summary of re-
+ []
+
+[137]
+Underfull \hbox (badness 1472) in paragraph at lines 61--65
+\EU1/SwiftNeueLTPro(0)/m/it/9 ponse to refugee crisis — European commission\EU1
+/SwiftNeueLTPro(0)/m/n/9 . Disponível em:
+ []
+
+[138] [139])) [140] 
+AED: lastpage setting LastPage
+\openout2 = `PUBLICIDADE.aux'.
+
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [141
+
+
+
+]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+[142]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+ [143] [144] [145] [146] [147]) [148
+
+]
+\tf@toc=\write5
+\openout5 = `LIVRO.toc'.
+
+ (./LIVRO.aux (./INPUTS.aux)
+(./PUBLICIDADE.aux)) ) 
+Here is how much of TeX's memory you used:
+ 26081 strings out of 493589
+ 469339 string characters out of 6148800
+ 639829 words of memory out of 5000000
+ 28938 multiletter control sequences out of 15000+600000
+ 14689 words of font info for 100 fonts, out of 8000000 for 9000
+ 1371 hyphenation exceptions out of 8191
+ 58i,12n,81p,10345b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on LIVRO.pdf (148 pages).
